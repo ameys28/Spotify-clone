@@ -92,3 +92,7 @@ margin: 0 12px;
 .songItemcontainer{
 margin-top: 70px;
 }
+.songInfo{
+  position: absolute;
+  left: 10vw;
+}
